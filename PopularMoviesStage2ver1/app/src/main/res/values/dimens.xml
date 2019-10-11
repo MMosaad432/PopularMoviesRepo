@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_view_height">300dp</dimen>
+    <dimen name="image_view_width">195dp</dimen>
+    <dimen name="text1_view_height">125dp</dimen>
+    <dimen name="text1_view_padding_left">20dp</dimen>
+    <dimen name="text1_view_padding_top">35dp</dimen>
+    <dimen name="text_view_text_size">22sp</dimen>
+    <dimen name="text2_view_padding_left_top">20dp</dimen>
+    <dimen name="text2_view_text_size">30sp</dimen>
+    <dimen name="text3_view_text_size">20sp</dimen>
+    <dimen name="text3_view_padding">5dp</dimen>
+    <dimen name="text1_view_splash_margin">20dp</dimen>
+    <dimen name="text1_view_splash_size">40sp</dimen>
+    <dimen name="text2_view_splash_padding">5dp</dimen>
+    <dimen name="text2_view_splash_size">30sp</dimen>
+    <dimen name="image_view_padding">5dp</dimen>
+    <dimen name="slideTextSize">15sp</dimen>
+</resources>

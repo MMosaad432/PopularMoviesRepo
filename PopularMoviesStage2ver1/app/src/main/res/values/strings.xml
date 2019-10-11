@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies Stage 2 ver 1</string>
+    <string name="sort_by_rate">Sort by top rates</string>
+    <string name="sort_by_popularity">Sort by popularity</string>
+    <string name="def">Not Found</string>
+    <string name="connection_error">No internet connection..\n Please connect and Restart the app.</string>
+    <string name="welcome_text">Welcome :)</string>
+    <string name="image_view_movie_list_description">RecyclerView\'s ImageView</string>
+    <string name="image_view_movie_details_description">Selected image ImageView</string>
+    <string name="sort_by_favorites">Sort by Favorites</string>
+    <string name="click_to_show_movie_s_overview">Click to show movie\'s overview</string>
+    <string name="click_to_show_movie_s_reviews">Click to show movie\'s reviews</string>
+    <string name="click_to_show_movie_s_trailers">Click to show movie\'s trailers</string>
+</resources>
